@@ -1,18 +1,9 @@
 /**
- * -------------------------------------------------------- Class: Bills
- * Reporting System
+ * -------------------------------------------------------- 
  *
- * @author Mark O'Reilly
+ * @author Kayne Ward
  *
  * Developed: 2017
- *
- * Purpose: Sample Java application for displaying the hypothetical emission
- * readings from a factory.
- *
- * Demonstrating the implementation of: - Use of a multi-dimension array - the
- * Javax Swing library - Action, Key and Window Listeners - Text file data
- * management - Implementation of Java packages - Use of WindowAdapter -
- * Selected modularisation (coupling and cohesion) and OOP concepts
  *
  * ----------------------------------------------------------
  */
